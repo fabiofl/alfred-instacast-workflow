@@ -1,6 +1,6 @@
 # Instacast.Alfredworkflow
 
-*Interect with Instacast for Mac via Alfred*
+*Interact with Instacast for Mac via Alfred*
 
 ![](http://d.pr/i/3TSl+)
 
